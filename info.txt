@@ -1,4 +1,0 @@
-Target Tahun 2023-2024
-1. Menguasai GIT 
-2. Menguasai Frontend Flutter
-3. Menguasai Backend Golang
